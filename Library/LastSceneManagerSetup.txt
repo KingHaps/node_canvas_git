@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/First_Try_Move_To_Points/First_Try_Move_To_Points.unity
   isLoaded: 1
   isActive: 1

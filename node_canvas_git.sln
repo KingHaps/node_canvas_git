@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "node_canvas_git", "node_canvas_git.csproj", "{4A238226-F2DA-23DA-0CB6-D5C2B48896A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "node_canvas_git.Editor", "node_canvas_git.Editor.csproj", "{758F9169-74DF-03AB-4553-EF26E2444971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A238226-F2DA-23DA-0CB6-D5C2B48896A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A238226-F2DA-23DA-0CB6-D5C2B48896A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A238226-F2DA-23DA-0CB6-D5C2B48896A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A238226-F2DA-23DA-0CB6-D5C2B48896A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758F9169-74DF-03AB-4553-EF26E2444971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758F9169-74DF-03AB-4553-EF26E2444971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758F9169-74DF-03AB-4553-EF26E2444971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758F9169-74DF-03AB-4553-EF26E2444971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

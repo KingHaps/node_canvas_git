@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/First_Try_Move_To_Points/First_Try_Move_To_Points.unity
+- path: Assets/Scenes/Chased_By_Points/Chased_By_Points.unity
   isLoaded: 1
   isActive: 1
